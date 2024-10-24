@@ -1,0 +1,23 @@
+{
+    "theme_color": "#dbc2ff",
+    "background_color": "#bfecfd",
+    "icons": [
+        {
+            "purpose": "maskable",
+            "sizes": "512x512",
+            "src": "icon512_maskable.png",
+            "type": "image/png"
+        },
+        {
+            "purpose": "any",
+            "sizes": "512x512",
+            "src": "icon512_rounded.png",
+            "type": "image/png"
+        }
+    ],
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/index.html",
+    "name": "AAAA",
+    "short_name": "a"
+}
